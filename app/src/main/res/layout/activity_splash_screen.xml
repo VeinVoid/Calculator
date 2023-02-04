@@ -10,7 +10,7 @@
     tools:context=".SplashScreen">
 
         <ImageView
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="124dp"
             android:src="@drawable/ph_calculator"/>
 
@@ -18,7 +18,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
-            android:textSize="20dp"
+            android:textSize="30dp"
             android:textColor="@color/black"
             android:text="Ini Bukan Kalkulator Cinta"/>
 </LinearLayout>
